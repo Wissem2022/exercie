@@ -5,3 +5,4 @@ commit m1
 commit m2
 commit m3
 commit m4
+commit b2-m1
